@@ -1,0 +1,17 @@
+# --- Web Scraping & Network ---
+beautifulsoup4
+curl-cffi
+
+# --- External APIs & Environment ---
+exa-py
+python-dotenv
+
+# --- Machine Learning & NLP ---
+numpy
+scikit-learn
+sentence-transformers
+
+# --- Web Framework & Data Validation ---
+fastapi
+pydantic
+uvicorn
