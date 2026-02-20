@@ -1,0 +1,25 @@
+# Core API framework
+fastapi>=0.110.0
+uvicorn>=0.27.0
+
+# ML / NLP
+torch>=2.1.0
+transformers>=4.38.0
+sentencepiece>=0.1.99
+scipy>=1.11.0
+numpy>=1.24.0
+
+# HuggingFace model loading
+huggingface-hub>=0.20.0
+
+# Groq LLM client
+groq>=0.9.0
+
+# Config / environment
+python-dotenv>=1.0.0
+
+# Data validation
+pydantic>=2.6.0
+
+# Utilities
+regex>=2023.12.25
